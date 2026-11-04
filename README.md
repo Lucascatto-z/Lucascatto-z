@@ -22,11 +22,9 @@
 ```js
 const lucas = {
   nome: "Lucas Zanardi Catto",
-  funcao: "Desenvolvedor Front-end",
+  funcao: "Desenvolvedor Full-stack",
   localizacao: "São Paulo, Brasil 🇧🇷",
   foco: ["Interfaces modernas", "Código limpo", "Boas práticas"],
-  estudando: ["React", "Arquitetura SOLID", "Firebase"],
-  objetivo: "Criar experiências bem construídas para a web",
 };
 ```
 
