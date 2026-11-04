@@ -98,16 +98,18 @@ const lucas = {
 <div align="center">
 
 <!-- ⚠️ Troque os links abaixo pelos seus -->
-<a href="https:https://www.linkedin.com/in/lucas-catto-a66886372/" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-catto-a66886372" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:cattolucas827@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://wa.me/16997958810" target="_blank">
+<a href="https://wa.me/5516997958810" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
-
+<a href="https://SEU-PORTFOLIO.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" />
+</a>
 
 <br/><br/>
 
