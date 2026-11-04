@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:6A11CB&height=200&section=header&text=Lucas%20Catto&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=17" width="100%"/>
 
