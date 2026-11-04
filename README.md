@@ -54,12 +54,11 @@ const lucas = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lucascatto-z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascatto-z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lucascatto-z&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucascatto-z&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+<img src="https://streak-stats.demolab.com/?user=Lucascatto-z&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
