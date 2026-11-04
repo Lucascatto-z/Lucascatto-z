@@ -1,10 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Lucas%20Catto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-end&descSize=22&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Lucas%20Catto&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=22&descAlignY=60" alt="Header" />
 
 <a href="https://github.com/Lucascatto-z">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Zanardi+Catto+%F0%9F%91%8B;Desenvolvedor+Front-end;Apaixonado+por+criar+experi%C3%AAncias+modernas;Transformando+ideias+em+interfaces+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Zanardi+Catto+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+criar+experi%C3%AAncias+modernas;Transformando+ideias+em+interfaces+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,16 +22,17 @@
 ```js
 const lucas = {
   nome: "Lucas Zanardi Catto",
-  funcao: "Desenvolvedor Full-stack",
+  funcao: "Desenvolvedor Full Stack",
   localizacao: "São Paulo, Brasil 🇧🇷",
-  foco: ["Interfaces modernas", "Código limpo", "Boas práticas"],
+  foco: ["Front-end e Back-end", "Código limpo", "Boas práticas"],
+  objetivo: "Criar aplicações completas, do banco de dados à interface",
 };
 ```
 
 - 🔭 Atualmente trabalhando em projetos com **React + Vite + Firebase**
 - 🌱 Aprofundando meus estudos em **arquitetura de software e princípios SOLID**
-- 💬 Pergunte-me sobre **JavaScript, CSS e desenvolvimento web**
-- ⚡ Curiosidade: gosto de ver uma ideia sair do papel e virar interface
+- 💬 Pergunte-me sobre **JavaScript, PHP e desenvolvimento web de ponta a ponta**
+- ⚡ Curiosidade: gosto de ver uma ideia sair do papel e virar uma aplicação completa
 
 ---
 
@@ -39,11 +40,11 @@ const lucas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,firebase,php&perline=7" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,php,firebase&perline=8" alt="Skills" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,nodejs&perline=6" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,postman&perline=6" alt="Ferramentas" />
 
 </div>
 
