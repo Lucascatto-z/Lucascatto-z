@@ -66,7 +66,7 @@ const lucas = {
 
 ---
 
-## 🐍 Cobrinha comendo meus commits
+## 🐍 Meus commits
 
 <div align="center">
 
