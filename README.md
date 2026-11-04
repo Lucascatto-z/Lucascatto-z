@@ -66,16 +66,15 @@ const lucas = {
 
 ---
 
-## 🚀 Projetos em destaque
+## 🐍 Cobrinha comendo meus commits
 
 <div align="center">
 
-| Projeto | Descrição | Tecnologias |
-|:--|:--|:--|
-| [**Vite-Project-Firebase**](https://github.com/Lucascatto-z/Vite-Project-Firebase) | Aplicação web integrada ao Firebase, construída com Vite | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
-| [**Aula-Kanaleureka-Projeto**](https://github.com/Lucascatto-z/Aula-Kanaleureka-Projeto) | Projeto de interface desenvolvido em aula, com foco em estilização | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| [**Projeto_tempo_de_vida**](https://github.com/Lucascatto-z/Projeto_tempo_de_vida) | Projeto de estudo com lógica back-end em PHP | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
-| [**Prova prática**](https://github.com/Lucascatto-z/Lucas-Zanardi-Catto----Prova-pratica) | Desafio prático de desenvolvimento em JavaScript | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucascatto-z/Lucascatto-z/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucascatto-z/Lucascatto-z/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo os commits" src="https://raw.githubusercontent.com/Lucascatto-z/Lucascatto-z/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
