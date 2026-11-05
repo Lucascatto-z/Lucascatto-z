@@ -54,7 +54,7 @@ const lucas = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lucascatto-z&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 
 <br/>
 
